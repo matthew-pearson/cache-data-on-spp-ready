@@ -1,0 +1,1 @@
+insert into Skill values (1, 'Java'), (2, 'Javascript'), (3, 'Spring'), (4, 'SQL');
